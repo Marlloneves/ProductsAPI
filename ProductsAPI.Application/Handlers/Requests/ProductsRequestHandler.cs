@@ -4,13 +4,6 @@ using ProductsAPI.Application.Models.Commands;
 using ProductsAPI.Application.Models.Queries;
 using ProductsAPI.Domain.Interfaces.Services;
 using ProductsAPI.Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Net.Http.Headers;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProductsAPI.Application.Handlers.Requests
 {
